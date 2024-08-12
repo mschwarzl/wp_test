@@ -1,3 +1,3 @@
 #!/bin/bash
-cat /proc/cmdline
-curl registry.cfdata.org/u/mschwarzl/macaroon:macaroon
+env
+ssh cloudchamber@104.30.129.230
